@@ -1,0 +1,6 @@
+E:\Work\Xamlized.RepositoryPattern\Xamlized.RepositoryPattern\bin\Debug\Xamlized.RepositoryPattern.exe.config
+E:\Work\Xamlized.RepositoryPattern\Xamlized.RepositoryPattern\bin\Debug\Xamlized.RepositoryPattern.exe
+E:\Work\Xamlized.RepositoryPattern\Xamlized.RepositoryPattern\bin\Debug\Xamlized.RepositoryPattern.pdb
+E:\Work\Xamlized.RepositoryPattern\Xamlized.RepositoryPattern\obj\Debug\Xamlized.RepositoryPattern.csprojResolveAssemblyReference.cache
+E:\Work\Xamlized.RepositoryPattern\Xamlized.RepositoryPattern\obj\Debug\Xamlized.RepositoryPattern.exe
+E:\Work\Xamlized.RepositoryPattern\Xamlized.RepositoryPattern\obj\Debug\Xamlized.RepositoryPattern.pdb
